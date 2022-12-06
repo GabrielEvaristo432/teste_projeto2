@@ -1,0 +1,25 @@
+{
+  "name": "teste_projeto2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielEvaristo432/teste_projeto2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielEvaristo432/teste_projeto2/issues"
+  },
+  "homepage": "https://github.com/GabrielEvaristo432/teste_projeto2#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.2"
+  }
+}
